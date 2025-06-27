@@ -1,0 +1,207 @@
+[
+  {
+    "claim": "Tehran is coming back to life, but its residents are deeply shaken",
+    "source_title": "Tehran is coming back to life, but its residents are deeply shaken",
+    "fact_check_result": "True – Widely reported by credible sources.",
+    "entities": [
+      "Tehran"
+    ]
+  },
+  {
+    "claim": "Iranian foreign minister admits serious damage to nuclear sites",
+    "source_title": "Iranian foreign minister admits serious damage to nuclear sites",
+    "fact_check_result": "False – Not supported by public data.",
+    "entities": []
+  },
+  {
+    "claim": "Anna Wintour stepping back as US Vogue's editor-in-chief",
+    "source_title": "Anna Wintour stepping back as US Vogue's editor-in-chief",
+    "fact_check_result": "True – Widely reported by credible sources.",
+    "entities": [
+      "Anna Wintour",
+      "US Vogue's"
+    ]
+  },
+  {
+    "claim": "Syrian charged over plot to attack Taylor Swift Vienna concert",
+    "source_title": "Syrian charged over plot to attack Taylor Swift Vienna concert",
+    "fact_check_result": "Uncertain – Not enough context to verify.",
+    "entities": [
+      "Taylor",
+      "Vienna"
+    ]
+  },
+  {
+    "claim": "Two men jailed for life for murder of Aboriginal boy",
+    "source_title": "Two men jailed for life for murder of Aboriginal boy",
+    "fact_check_result": "Uncertain – Not enough context to verify.",
+    "entities": []
+  },
+  {
+    "claim": "Brad Pitt's Los Angeles home 'ransacked', police say",
+    "source_title": "Brad Pitt's Los Angeles home 'ransacked', police say",
+    "fact_check_result": "Uncertain – Not enough context to verify.",
+    "entities": [
+      "Los Angeles",
+      "Brad Pitt's"
+    ]
+  },
+  {
+    "claim": "A third of Pacific island nation applies for Australian climate change visa",
+    "source_title": "A third of Pacific island nation applies for Australian climate change visa",
+    "fact_check_result": "Uncertain – Not enough context to verify.",
+    "entities": [
+      "Pacific island"
+    ]
+  },
+  {
+    "claim": "Outrage as Trump compares Iran strikes to Japan atomic bombing",
+    "source_title": "Outrage as Trump compares Iran strikes to Japan atomic bombing",
+    "fact_check_result": "False – Not supported by public data.",
+    "entities": [
+      "Trump",
+      "Iran",
+      "Japan"
+    ]
+  },
+  {
+    "claim": "Japan executes 'Twitter killer' who murdered nine",
+    "source_title": "Japan executes 'Twitter killer' who murdered nine",
+    "fact_check_result": "Uncertain – Not enough context to verify.",
+    "entities": [
+      "Twitter",
+      "Japan"
+    ]
+  },
+  {
+    "claim": "Renowned food critic Chua Lam dies at 83",
+    "source_title": "Renowned food critic Chua Lam dies at 83",
+    "fact_check_result": "Uncertain – Not enough context to verify.",
+    "entities": [
+      "Chua Lam"
+    ]
+  },
+  {
+    "claim": "Canada passes law fast-tracking 'nation building' projects to counter Trump",
+    "source_title": "Canada passes law fast-tracking 'nation building' projects to counter Trump",
+    "fact_check_result": "Uncertain – Not enough context to verify.",
+    "entities": [
+      "Trump",
+      "Canada"
+    ]
+  },
+  {
+    "claim": "India recovers data from crashed Air India flight recorders",
+    "source_title": "India recovers data from crashed Air India flight recorders",
+    "fact_check_result": "Uncertain – Not enough context to verify.",
+    "entities": [
+      "Air India",
+      "India"
+    ]
+  },
+  {
+    "claim": "What to know about the Supreme Court's birthright citizenship case",
+    "source_title": "What to know about the Supreme Court's birthright citizenship case",
+    "fact_check_result": "Uncertain – Not enough context to verify.",
+    "entities": [
+      "the Supreme Court's"
+    ]
+  },
+  {
+    "claim": "A month into Gaza's new aid system - gunfire and chaos are routine",
+    "source_title": "A month into Gaza's new aid system - gunfire and chaos are routine",
+    "fact_check_result": "Uncertain – Not enough context to verify.",
+    "entities": [
+      "Gaza"
+    ]
+  },
+  {
+    "claim": "'They brainwashed my son': the families of PKK fighters waiting for 40-year conflict to end",
+    "source_title": "'They brainwashed my son': the families of PKK fighters waiting for 40-year conflict to end",
+    "fact_check_result": "Uncertain – Not enough context to verify.",
+    "entities": [
+      "PKK"
+    ]
+  },
+  {
+    "claim": "'We are terrified': Trump's migrant crackdown has workers and firms worried",
+    "source_title": "'We are terrified': Trump's migrant crackdown has workers and firms worried",
+    "fact_check_result": "Uncertain – Not enough context to verify.",
+    "entities": [
+      "Trump"
+    ]
+  },
+  {
+    "claim": "Are East African governments uniting to silence dissent?",
+    "source_title": "Are East African governments uniting to silence dissent?",
+    "fact_check_result": "Uncertain – Not enough context to verify.",
+    "entities": []
+  },
+  {
+    "claim": "The woman who could bust Trump's 'big beautiful bill'",
+    "source_title": "The woman who could bust Trump's 'big beautiful bill'",
+    "fact_check_result": "Uncertain – Not enough context to verify.",
+    "entities": [
+      "Trump"
+    ]
+  },
+  {
+    "claim": "EU's 27 countries struggle to find a united voice on Gaza",
+    "source_title": "EU's 27 countries struggle to find a united voice on Gaza",
+    "fact_check_result": "Uncertain – Not enough context to verify.",
+    "entities": [
+      "EU",
+      "Gaza"
+    ]
+  },
+  {
+    "claim": "Satirical Bezos mannequins pop up in Venice ahead of wedding",
+    "source_title": "Satirical Bezos mannequins pop up in Venice ahead of wedding",
+    "fact_check_result": "Uncertain – Not enough context to verify.",
+    "entities": [
+      "Venice"
+    ]
+  },
+  {
+    "claim": "Moment South Korean man sets Seoul metro carriage on fire",
+    "source_title": "Moment South Korean man sets Seoul metro carriage on fire",
+    "fact_check_result": "Uncertain – Not enough context to verify.",
+    "entities": [
+      "Seoul"
+    ]
+  },
+  {
+    "claim": "US electrical worker left dangling after being hit by truck",
+    "source_title": "US electrical worker left dangling after being hit by truck",
+    "fact_check_result": "Uncertain – Not enough context to verify.",
+    "entities": [
+      "US"
+    ]
+  },
+  {
+    "claim": "BBC inside Iran state TV building hit by Israeli missile strike",
+    "source_title": "BBC inside Iran state TV building hit by Israeli missile strike",
+    "fact_check_result": "False – Not supported by public data.",
+    "entities": [
+      "Iran",
+      "BBC"
+    ]
+  },
+  {
+    "claim": "Watch: Stars arrive in Venice for Jeff Bezos wedding",
+    "source_title": "Watch: Stars arrive in Venice for Jeff Bezos wedding",
+    "fact_check_result": "Uncertain – Not enough context to verify.",
+    "entities": [
+      "Venice",
+      "Jeff Bezos"
+    ]
+  },
+  {
+    "claim": "Watch: Large fireball seen shooting across sky over Southeastern US",
+    "source_title": "Watch: Large fireball seen shooting across sky over Southeastern US",
+    "fact_check_result": "Uncertain – Not enough context to verify.",
+    "entities": [
+      "Southeastern US"
+    ]
+  }
+]
