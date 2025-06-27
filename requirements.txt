@@ -2,6 +2,3 @@ streamlit==1.35.0
 pandas==2.1.4
 plotly==5.22.0
 great_expectations==1.5.3
-
-scikit-learn==1.4.2
-numpy==1.26.4
