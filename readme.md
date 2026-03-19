@@ -1,3 +1,4 @@
+<img width="1280" height="579" alt="banner" src="https://github.com/user-attachments/assets/6ad7a3d8-58d6-45be-8b8b-e72e11ea8e84" />
 # 🧠 AI Fact-Checker Pipeline
 
 [![GitHub Repo](https://img.shields.io/badge/GitHub-ai--fact--checker--pipeline-blue?logo=github)](https://github.com/grave021999/ai-fact-checker-pipeline)
